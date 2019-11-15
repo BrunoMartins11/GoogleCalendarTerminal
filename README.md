@@ -7,7 +7,7 @@ Simple Google Calendar terminal client to list your next 10 events and insert an
 ### To list next 10 events
 
 ```
-go run calendar.go
+go run calendar.go list
 ```
 ### To insert an event
 ```
